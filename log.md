@@ -2,7 +2,7 @@
 
 ### Day 1: January 17, 2022
 
-**Today's Progress**: Started working on **[Frontend development ](https://www.freecodecamp.org/learn/front-end-development-libraries/) by freecodecamp
+**Today's Progress**: Started working on [Frontend development ](https://www.freecodecamp.org/learn/front-end-development-libraries/) course offered by by freecodecamp
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
