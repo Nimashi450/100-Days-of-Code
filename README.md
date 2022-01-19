@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-## Goto log in to check on my progress!!!
+## [check on my progress!!!](https://github.com/Nimashi450/100-days-of-code/blob/master/log.md)
 
 ## Contents
 
