@@ -2,7 +2,7 @@
 
 ### Day 1: January 19, 2022
 
-**Today's Progress**: Started to learn javaScript from the begining. Foung a great course to learn JS --> [click here](https://scrimba.com/learn/learnjavascript)
+**Today's Progress**: Started to learn javaScript from the begining. Found a great course to learn JS --> [click here](https://scrimba.com/learn/learnjavascript)
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
