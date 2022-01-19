@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+## Goto log in to check on my progress!!!
+
 ## Contents
 
 * [Rules](rules.md)
