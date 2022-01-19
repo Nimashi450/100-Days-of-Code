@@ -19,6 +19,11 @@ h2 {
     margin-bottom: 20px;
 }
 
+p {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
 button {
     border: none;
     padding-top: 10px;
