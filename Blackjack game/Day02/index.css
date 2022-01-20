@@ -20,14 +20,20 @@ h1 {
     font-style: bold;
 }
 
-#button {
+button {
     background-color: goldenrod;
     color: #016f32;
     font-family: Andale Mono, monospace;
+    font-size: large;
     font-weight: bold;
     width: 150px;
     padding-top: 5px;
     padding-bottom: 5px;
     border: none;
     border-radius: 5px;
+    margin-bottom: 10px;
+
 }
+
+
+
