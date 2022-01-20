@@ -8,6 +8,6 @@ Create a simple application which counts the number of passengers which entered 
 
 ### Day 1: January 20, 2022
 
-**Today's Progress**: veloped a simple blackjack game. It's nice that i've learn so much things about how to deal with JS functions
+**Today's Progress**: developed a simple blackjack game. It's nice that i've learn so much things about how to deal with JS functions
 
 ![Screenshot 2022-01-21 010900](https://user-images.githubusercontent.com/67429062/150410708-cf9a9daf-8f21-4fcf-959b-077e367f195d.png)
