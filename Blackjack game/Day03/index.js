@@ -4,28 +4,32 @@
 // 2. Create a variable, sum, and set it to the sum of the two cards
 
 let sum 
-let hasBlackJack = false
+let hasBlackJack = false 
 let isAlive = true
-
+let cardarry = []
 
 let cardEl = document.getElementById("card-el")
 let sumEl = document.querySelector("#sum-el")
 let messageEl = document.getElementById("message-el")
+let playerEl = document.getElementById("player-el")
 
-let firstCard = Math.floor(Math.random() * 11) + 2;
-let secondCard = Math.floor(Math.random() * 11) + 2;
-sum = firstCard + secondCard
-let cardarry = [firstCard, secondCard]
+let player = {
+    name: "jack",
+    chips: 156
+
+}
+
+playerEl.innerText = player.name + ": $" + player.chips
 
 function startGame() {
+    let firstCard = Math.floor(Math.random() * 10) + 2;
+    let secondCard = Math.floor(Math.random() * 10) + 2;
+    sum = firstCard + secondCard
+    cardarry = [firstCard, secondCard]
     renderGame()
 }
 
 function renderGame() {
-    
-
-    //let cards = "Cards: " + cardarry[0] + " " + cardarry[1] + " " + cardarry[2]
-
 
     if (sum <= 20) {
         messageEl.innerText = "Do you want to draw a new card? 🙂"
@@ -40,7 +44,6 @@ function renderGame() {
         messageEl.innerText = "You're out of the game! 😭"
         
     }
-
     sumEl.innerText = "Sum: " + sum
 
     cardEl.textContent = "Cards: "
@@ -50,11 +53,16 @@ function renderGame() {
     }
 }
 
+
 function newCard() {
-    let newcard = Math.floor(Math.random() * 11) + 2;
-    cardarry.push(newcard)
-    sum += newcard
-    renderGame()
+
+    if(isAlive && !hasBlackJack){ 
+        let newcard = Math.floor(Math.random() * 10) + 2;
+        cardarry.push(newcard)
+        sum += newcard
+        renderGame()
+    } else messageEl.innerText = "Want to play a round again?"
+
 }
 
 
