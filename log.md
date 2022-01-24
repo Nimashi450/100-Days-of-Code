@@ -6,4 +6,10 @@
 Create a simple application which counts the number of passengers which entered to a railway station 
 ![Screenshot 2022-01-19 232250](https://user-images.githubusercontent.com/67429062/150186723-5318193c-73ed-4658-b802-d3d5dd52988c.png)
 
+### Day 2: January 20, 2022
 
+**Today's Progress**: developed a simple blackjack game. It's nice that i've learn so much things about how to deal with JS functions
+
+![Screenshot 2022-01-21 010900](https://user-images.githubusercontent.com/67429062/150410708-cf9a9daf-8f21-4fcf-959b-077e367f195d.png)
+
+### Day 3: January 21, 2022
