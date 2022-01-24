@@ -12,4 +12,9 @@ Create a simple application which counts the number of passengers which entered 
 
 ![Screenshot 2022-01-21 010900](https://user-images.githubusercontent.com/67429062/150410708-cf9a9daf-8f21-4fcf-959b-077e367f195d.png)
 
-### Day 3: January 21, 2022
+### Day 3: January 21, 2022 
+**Today's Progress**: Continued BlackJack Game
+
+### Day 4: January 24, 2022 
+**Today's Progress**: finished BlackJack Game by adding new features. Also learn how use objects in javascript.
+Practiced 4 exercises given by the course and Started a new topic about making chrome extension using JS.
