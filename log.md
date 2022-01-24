@@ -16,5 +16,5 @@ Create a simple application which counts the number of passengers which entered 
 **Today's Progress**: Continued BlackJack Game
 
 ### Day 4: January 24, 2022 
-**Today's Progress**: finished BlackJack Game by adding new features. Also learn how use objects in javascript.
-Practiced 4 exercises given by the course and Started a new topic about making chrome extension using JS.
+**Today's Progress**: finished BlackJack Game by adding new features. Also learn how to use objects in javascript.
+Practiced 4 exercises given by the course and started a new topic about making Chrome Extension using JS.
