@@ -1,16 +1,14 @@
-<?php 
+<?php
+   define('DB_SERVER', 'localhost');
+   define('DB_USERNAME', 'root');
+   define('DB_PASSWORD', '');
+   // define('DB_USERNAME', 'slt');
+   // define('DB_PASSWORD', '179189Th#');
+   define('DB_DATABASE', 'smart_agro');
 
-define('DB_SERVER','localhost');
-define('DB_USER','root');
-define('DB_PASSWORD','');
-define('DB_NAME','projecttest');
+   $db = mysqli_connect(DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE);
 
-$conn = mysqli_connect(DB_SERVER,DB_USER,DB_PASSWORD,DB_NAME);
-
-
-if(!$conn){
-    die('Could not connected to database!!: '.mysql_error());
-}
-// else
-//     echo "Database is successfully connected!!!";
-?>
+   if(!$db){
+      die('Could not Connect My Sql:' .mysql_error());
+   }
+?> 
